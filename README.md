@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
