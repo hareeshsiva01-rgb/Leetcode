@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0445-add-two-numbers-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
