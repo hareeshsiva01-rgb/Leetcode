@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,20 +83,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
