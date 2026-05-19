@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2540-minimum-common-value](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2540-minimum-common-value](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2540-minimum-common-value](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2540-minimum-common-value](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
