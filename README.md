@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2540-minimum-common-value](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0078-subsets) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2540-minimum-common-value](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
