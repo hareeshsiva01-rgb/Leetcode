@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2540-minimum-common-value](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2540-minimum-common-value](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,4 +116,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
