@@ -4,7 +4,7 @@ class Solution {
     
     for(int i=0;i<s.length();i++){
         if(s.charAt(i)=='*'){
-                if(sb.length() != 0){
+                if(sb.length() > 0){
                 sb.deleteCharAt(sb.length()-1);
                 }
         }
