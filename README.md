@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0053-maximum-subarray) |
 | [1340-jump-game-v](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
