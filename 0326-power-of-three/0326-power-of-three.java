@@ -4,12 +4,10 @@ class Solution {
         if(n<=0){
             return false;
         }
-        else{
-            while(n % 3==0){
-                n/=3;
-            }
-            f=n==1?true:false;
+        while(n % 3==0){
+            n/=3;
         }
+        f=n==1?true:false;
         return f;
     }
 }
