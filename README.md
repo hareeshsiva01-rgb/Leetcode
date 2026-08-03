@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0877-stone-game](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1340-jump-game-v](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0877-stone-game](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0877-stone-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0877-stone-game) |
 | [1340-jump-game-v](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/hareeshsiva01-rgb/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
